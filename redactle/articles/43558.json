@@ -4,6 +4,10 @@
   "personality": "Jane Birkin",
   "nodes": [
     {
+      "type": "publication",
+      "content": "Publié le 16 juillet 2023"
+    },
+    {
       "type": "title",
       "content": "Jane Birkin, chanteuse et comédienne, est morte à l’âge de 76 ans"
     },
